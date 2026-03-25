@@ -33,6 +33,10 @@ const App = () => (
       </BrowserRouter>
     </TooltipProvider>
   </QueryClientProvider>
+  </HelmetProvider>
+);
+
+export default App;
 );
 
 export default App;
