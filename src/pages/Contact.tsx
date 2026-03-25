@@ -158,7 +158,7 @@ const Contact = () => {
                   </div>
                 </div>
                 <a
-                  href="https://wa.me/221782636295?text=Bonjour%20FIMD%20EI"
+                  href="https://wa.me/221782636295?text=Bonjour%20FIMD%20EI%2C%20je%20souhaite%20en%20savoir%20plus%20sur%20vos%20services%20de%20conseil%20industriel"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-start gap-4 p-6 rounded-2xl bg-primary/5 border border-primary/20 hover:bg-primary/10 transition-colors"
