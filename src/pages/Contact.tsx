@@ -157,18 +157,18 @@ const Contact = () => {
                     <p className="text-sm text-muted-foreground">Dakar, Sénégal</p>
                   </div>
                 </div>
-                <a
-                  href="https://wa.me/221782636295"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-start gap-4 p-6 rounded-2xl bg-primary/5 border border-primary/20 hover:bg-primary/10 transition-colors"
-                >
-                  <MessageCircle size={20} className="text-primary mt-0.5 shrink-0" />
-                  <div>
-                    <h4 className="font-heading font-semibold text-foreground mb-1">WhatsApp</h4>
-                    <p className="text-sm text-muted-foreground">Réponse rapide — cliquez pour nous écrire</p>
-                  </div>
-                </a>
+             <a
+  href="https://wa.me/221782636295"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-start gap-4 p-6 rounded-2xl bg-primary/5 border border-primary/20 hover:bg-primary/10 transition-colors"
+>
+  <MessageCircle size={20} className="text-primary mt-0.5 shrink-0" />
+  <div>
+    <h4 className="font-heading font-semibold text-foreground mb-1">WhatsApp</h4>
+    <p className="text-sm text-muted-foreground">Réponse rapide — cliquez pour nous écrire</p>
+  </div>
+</a>
               </div>
             </motion.div>
           </div>
